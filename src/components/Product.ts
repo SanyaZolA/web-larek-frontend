@@ -33,11 +33,7 @@
 //     set id(value: string) {
 //         this.container.dataset.id = value;
 //     }
-//     // установки id
-//     get id(): string {
-//         return this.container.dataset.id || '';
-//     }
-
+//  
 //     // получение категории товара
 //     set category(value: string ) {
 //         this.setText(this._category, value);
